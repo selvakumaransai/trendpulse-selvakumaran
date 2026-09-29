@@ -1,0 +1,79 @@
+[
+    {
+        "post_id": "t1",
+        "title": "  AI Breakthrough in Healthcare  ",
+        "score": "45",
+        "num_comments": "120",
+        "category": "technology"
+    },
+    {
+        "post_id": "t2",
+        "title": "Global Climate Summit Reaches Agreement",
+        "score": "88",
+        "num_comments": "340",
+        "category": "worldnews"
+    },
+    {
+        "post_id": "t1",
+        "title": "  AI Breakthrough in Healthcare  ",
+        "score": "45",
+        "num_comments": "120",
+        "category": "technology"
+    },
+    {
+        "post_id": "t3",
+        "title": null,
+        "score": "12",
+        "num_comments": "5",
+        "category": "sports"
+    },
+    {
+        "post_id": null,
+        "title": "New Space Telescope Discovers Galaxy",
+        "score": "150",
+        "num_comments": "512",
+        "category": "science"
+    },
+    {
+        "post_id": "t4",
+        "title": "Blockbuster Movie Breaks Box Office Records",
+        "score": "3",
+        "num_comments": "15",
+        "category": "entertainment"
+    },
+    {
+        "post_id": "t5",
+        "title": "Quantum Computing Milestone Achieved",
+        "score": "92",
+        "num_comments": "210",
+        "category": "technology"
+    },
+    {
+        "post_id": "t6",
+        "title": "International Trade Agreement Signed",
+        "score": "65",
+        "num_comments": "88",
+        "category": "worldnews"
+    },
+    {
+        "post_id": "t7",
+        "title": "Championship League Final Thriller",
+        "score": "78",
+        "num_comments": "410",
+        "category": "sports"
+    },
+    {
+        "post_id": "t8",
+        "title": "Deep Sea Exploration Unlocks New Species",
+        "score": "110",
+        "num_comments": "95",
+        "category": "science"
+    },
+    {
+        "post_id": "t9",
+        "title": "Award Season Kicks Off with Surprises",
+        "score": "42",
+        "num_comments": "60",
+        "category": "entertainment"
+    }
+]

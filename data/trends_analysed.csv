@@ -1,0 +1,8 @@
+post_id,title,score,num_comments,category,engagement,is_popular
+t1,AI Breakthrough in Healthcare,45,120,technology,2.608695652173913,False
+t2,Global Climate Summit Reaches Agreement,88,340,worldnews,3.8202247191011236,True
+t5,Quantum Computing Milestone Achieved,92,210,technology,2.2580645161290325,True
+t6,International Trade Agreement Signed,65,88,worldnews,1.3333333333333333,False
+t7,Championship League Final Thriller,78,410,sports,5.189873417721519,True
+t8,Deep Sea Exploration Unlocks New Species,110,95,science,0.8558558558558559,True
+t9,Award Season Kicks Off with Surprises,42,60,entertainment,1.3953488372093024,False
